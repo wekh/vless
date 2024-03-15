@@ -1,4 +1,4 @@
-addEventListener('fetch', event => {
+addEventListener('fetch'， event => {
 	event.respondWith(handleRequest(event.request));
 });
 // 存储拼接后的字符串，用于去重
