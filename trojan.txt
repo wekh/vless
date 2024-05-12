@@ -1,1 +1,0 @@
-trojan://ca110us@trojan-61i.pages.dev:443/?type=ws&host=trojan-61i.pages.dev&security=tls
