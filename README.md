@@ -11,10 +11,8 @@
 #### 也可在CF-workers/pages界面中使用变量设置，注：变量设置结果将覆盖本地修改结果
 | 变量作用 | 变量名称 | 变量默认值 |
 | :--- | :--- | :--- |
-| 1、必要的UUID | UUID |cfd42f8b-2e58-4e4c-94f1-253e935b53ac|
-| 2、能上CF类网站 | PROXYIP |proxyip.fxxk.dedyn.io|
-| 3、优选域名 | ADD |优选域名|
-| 4、优选订阅地址 | SUB |vless.fxxk.dedyn.io|
+| 1、必要的uuid | uuid |cfd42f8b-2e58-4e4c-94f1-253e935b53ac|
+| 2、能上CF类网站 | 	proxyip |proxyip.fxxk.dedyn.io|
 
 ---------------------------------
 
